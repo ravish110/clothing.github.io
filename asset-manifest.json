@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/clothing.github.io/static/css/main.924fec1d.chunk.css",
+    "main.js": "/clothing.github.io/static/js/main.3ec811aa.chunk.js",
+    "main.js.map": "/clothing.github.io/static/js/main.3ec811aa.chunk.js.map",
+    "runtime-main.js": "/clothing.github.io/static/js/runtime-main.309706c2.js",
+    "runtime-main.js.map": "/clothing.github.io/static/js/runtime-main.309706c2.js.map",
+    "static/js/2.8f66a8b9.chunk.js": "/clothing.github.io/static/js/2.8f66a8b9.chunk.js",
+    "static/js/2.8f66a8b9.chunk.js.map": "/clothing.github.io/static/js/2.8f66a8b9.chunk.js.map",
+    "index.html": "/clothing.github.io/index.html",
+    "precache-manifest.b03a8d03bb31f4f2fc4bd6e9a5e57e34.js": "/clothing.github.io/precache-manifest.b03a8d03bb31f4f2fc4bd6e9a5e57e34.js",
+    "service-worker.js": "/clothing.github.io/service-worker.js",
+    "static/css/main.924fec1d.chunk.css.map": "/clothing.github.io/static/css/main.924fec1d.chunk.css.map",
+    "static/js/2.8f66a8b9.chunk.js.LICENSE": "/clothing.github.io/static/js/2.8f66a8b9.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.309706c2.js",
+    "static/js/2.8f66a8b9.chunk.js",
+    "static/css/main.924fec1d.chunk.css",
+    "static/js/main.3ec811aa.chunk.js"
+  ]
+}
